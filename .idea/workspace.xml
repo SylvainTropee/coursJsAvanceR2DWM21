@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0bdf76c-f652-49e4-b13d-3db8a2aa23d8" name="Changes" comment="Module 1 tp pendu">
-      <change afterPath="$PROJECT_DIR$/module_2/demo1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo3/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo4/script.js" afterDir="false" />
+    <list default="true" id="e0bdf76c-f652-49e4-b13d-3db8a2aa23d8" name="Changes" comment="Module 2 demos">
+      <change afterPath="$PROJECT_DIR$/module_2/tp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/tp/question.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/tp/quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/tp/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -63,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Web Projects/coursJsAvanceRD2WM21/module_2",
+    "last_opened_file_path": "D:/Web Projects/coursJsAvanceRD2WM21/module_2/tp",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,6 +75,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_2\tp" />
       <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_2" />
       <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_1\tp" />
     </key>
@@ -100,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771232467499</updated>
       <workItem from="1771232468428" duration="9179000" />
-      <workItem from="1771315294631" duration="8416000" />
+      <workItem from="1771315294631" duration="14339000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 demo 1">
       <option name="closed" value="true" />
@@ -134,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771319972044</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Module 2 demos">
+      <option name="closed" value="true" />
+      <created>1771326083073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771326083073</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +165,7 @@
     <MESSAGE value="Module 1 demo 1 (test commit)" />
     <MESSAGE value="Module 1 demo 2 (event)" />
     <MESSAGE value="Module 1 tp pendu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 1 tp pendu" />
+    <MESSAGE value="Module 2 demos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2 demos" />
   </component>
 </project>

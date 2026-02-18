@@ -1,0 +1,20 @@
+GET https://hp-api.onrender.com/api/characters
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2026-02-18T093307.200.json
+
+###
+
+GET https://hp-api.onrender.com/api/characters
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2026-02-18T093148.200.json
+
+###
+

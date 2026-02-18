@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0bdf76c-f652-49e4-b13d-3db8a2aa23d8" name="Changes" comment="Module 2 demos">
-      <change afterPath="$PROJECT_DIR$/module_2/tp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/tp/question.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/tp/quiz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/tp/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/demo1/harryApi.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/demo2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/demo2/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2/tp/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/tp/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="HTTP Request" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -41,6 +42,9 @@
     &quot;accountId&quot;: &quot;e2ed237d-ba36-48f7-a4cf-86aed259915a&quot;
   }
 }</component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -56,6 +60,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
+    "HTTP Request.harryApi | GET request to example server.executor": "Run",
     "Node.js.index.js.executor": "Run",
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,6 +88,16 @@
       <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_1" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="harryApi | GET request to example server" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/module_3/demo1/harryApi.http" requestIdentifier="GET request to example server" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.harryApi | GET request to example server" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,6 +115,7 @@
       <updated>1771232467499</updated>
       <workItem from="1771232468428" duration="9179000" />
       <workItem from="1771315294631" duration="14339000" />
+      <workItem from="1771401642334" duration="3929000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 demo 1">
       <option name="closed" value="true" />

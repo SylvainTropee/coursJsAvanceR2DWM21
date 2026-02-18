@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0bdf76c-f652-49e4-b13d-3db8a2aa23d8" name="Changes" comment="Module 3 API">
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/assets/astronaute.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/assets/bulle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/assets/iss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/assets/iss_back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/style.css" afterDir="false" />
+    <list default="true" id="e0bdf76c-f652-49e4-b13d-3db8a2aa23d8" name="Changes" comment="Module 3 API tp iss">
+      <change afterPath="$PROJECT_DIR$/module_3/demo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/demo3/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3/demo2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/demo2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Web Projects/coursJsAvanceRD2WM21/module_3/tp_iss",
+    "last_opened_file_path": "D:/Web Projects/coursJsAvanceRD2WM21/module_3",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -84,6 +78,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_3" />
       <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_3\tp_iss" />
       <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_2\tp" />
       <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_2" />
@@ -120,7 +115,7 @@
       <updated>1771232467499</updated>
       <workItem from="1771232468428" duration="9179000" />
       <workItem from="1771315294631" duration="14339000" />
-      <workItem from="1771401642334" duration="8985000" />
+      <workItem from="1771401642334" duration="9922000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 demo 1">
       <option name="closed" value="true" />
@@ -170,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771408761647</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Module 3 API tp iss">
+      <option name="closed" value="true" />
+      <created>1771419917757</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771419917757</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +199,7 @@
     <MESSAGE value="Module 1 tp pendu" />
     <MESSAGE value="Module 2 demos" />
     <MESSAGE value="Module 3 API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 3 API" />
+    <MESSAGE value="Module 3 API tp iss" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 3 API tp iss" />
   </component>
 </project>

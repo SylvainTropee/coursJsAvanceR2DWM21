@@ -1,0 +1,10 @@
+#map {
+    height: 600px;
+    width: 900px;
+}
+
+body{
+    background-image: url("assets/iss_back.jpg");
+    background-size: cover;
+    color: white;
+}

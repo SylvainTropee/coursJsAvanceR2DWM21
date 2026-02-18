@@ -1,6 +1,6 @@
 let characters = [];
 
- fetch("https://hp-api.onrender.com/api/characters")
+ fetch("https://hp-api.onrender.com/api/characters"/*, {method : 'POST', body : JSON.stringify({name : 'Sylvain'})}*/)
    .then((httpResponse) => httpResponse.json())
    .then((data) => {
      console.log(data);

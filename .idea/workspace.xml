@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0bdf76c-f652-49e4-b13d-3db8a2aa23d8" name="Changes" comment="Module 3 API tp communes">
-      <change afterPath="$PROJECT_DIR$/module_4/demo1/script.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_4/demo2/script.ts" afterDir="false" />
+    <list default="true" id="e0bdf76c-f652-49e4-b13d-3db8a2aa23d8" name="Changes" comment="Module 4 typescript">
+      <change afterPath="$PROJECT_DIR$/module_4/demo3/script.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +61,7 @@
     "HTTP Request.harryApi | GET request to example server.executor": "Run",
     "Node.js.index.js.executor": "Run",
     "Node.js.script.js.executor": "Run",
+    "Node.js.script.ts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Web Projects/coursJsAvanceRD2WM21/module_3",
@@ -73,7 +73,7 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/Web Projects/coursJsAvanceRD2WM21/src/main.js",
     "settings.editor.selected.configurable": "settings.typescriptcompiler",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "D:\\Web Projects\\coursJsAvanceRD2WM21\\module_4\\TS-project\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,15 +89,19 @@
       <recent name="D:\Web Projects\coursJsAvanceRD2WM21\module_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.script.js">
+  <component name="RunManager" selected="Node.js.script.ts">
     <configuration name="harryApi | GET request to example server" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/module_3/demo1/harryApi.http" requestIdentifier="GET request to example server" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/module_4/demo2/script.js" working-dir="$PROJECT_DIR$/module_4/demo2">
       <method v="2" />
     </configuration>
+    <configuration name="script.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/module_4/demo3/script.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/module_4/demo3">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script.ts" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="HTTP Request.harryApi | GET request to example server" />
       </list>
@@ -121,7 +125,7 @@
       <workItem from="1771232468428" duration="9179000" />
       <workItem from="1771315294631" duration="14339000" />
       <workItem from="1771401642334" duration="11598000" />
-      <workItem from="1771488064164" duration="7824000" />
+      <workItem from="1771488064164" duration="11231000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 demo 1">
       <option name="closed" value="true" />
@@ -195,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771492071537</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Module 4 typescript">
+      <option name="closed" value="true" />
+      <created>1771497685319</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771497685319</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +216,7 @@
       <list>
         <option value="$PROJECT_DIR$/module_4/demo1/script.js" />
         <option value="$PROJECT_DIR$/module_4/demo2/script.js" />
+        <option value="$PROJECT_DIR$/module_4/demo3/script.js" />
       </list>
     </option>
   </component>
@@ -230,6 +243,7 @@
     <MESSAGE value="Module 3 API tp iss" />
     <MESSAGE value="Module 3 API async await" />
     <MESSAGE value="Module 3 API tp communes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 3 API tp communes" />
+    <MESSAGE value="Module 4 typescript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 4 typescript" />
   </component>
 </project>
